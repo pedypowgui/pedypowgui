@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Guilherme Brito
+- I'm studiyng on Alura and at home
+- I'm studiyng for ENEM
+
+## My e-mail📧
+guidobritosantosss@gmail.com
 <!--
 **pedypowgui/pedypowgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
