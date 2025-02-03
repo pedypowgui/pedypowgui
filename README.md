@@ -2,7 +2,7 @@
 
 My name is Guilherme Brito
 - I am studying System Analysis and Development at Fatec
-- I live in Brasil
+- I live in Brasil🇧🇷
 
 ## My e-mail📧
 guidobritosantosss@gmail.com
