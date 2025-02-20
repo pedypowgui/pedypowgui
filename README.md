@@ -2,10 +2,12 @@
 
 My name is Guilherme Brito
 - I am studying System Analysis and Development at Fatec on the first semester
-- I live in Brasil brasil 
+- I live in Brazil
 
 ## My e-mail📧
 guidobritosantosss@gmail.com
+## My Linkedin
+www.linkedin.com/in/guilhermebritodossantos
 <!--
 **pedypowgui/pedypowgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
