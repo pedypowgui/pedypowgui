@@ -1,13 +1,13 @@
-## Hi there 👋
+# Olá Mundo! 👋
 
-My name is Guilherme Brito
-- I am studying System Analysis and Development at Fatec on the first semester
-- I live in Brazil
+Meu nome é Guilherme Brito, sempre fui apaixonado por tecnologia e criei meu Github para poder compartilhar alguns dos meus projetos com todos vocês, espero que gostem🤗
+- Estudo Análise e Desenvolvimento de Sistemas na Fatec Ferraz de Vasconcelos
+- C e C++ 
 
-## My e-mail📧
-guidobritosantosss@gmail.com
-## My Linkedin
-www.linkedin.com/in/guilhermebritodossantos
+## Meus contatos📧
+*guidobritosantosss@gmail.com*
+
+*www.linkedin.com/in/guilhermebritodossantos*
 <!--
 **pedypowgui/pedypowgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
