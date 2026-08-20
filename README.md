@@ -51,25 +51,19 @@
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=cpp,java,py&perline=14"/>
-  </kbd>
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=java,py,nodejs&perline=14"/>
   </kbd>
   <kbd>
     <kbd>FrameWorks</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=spring,bootstrap,react&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=spring,bootstrap,react,express&perline=14"/>
   </kbd>
   <kbd>
     <kbd>Ferramentas</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=postman,git,github,figma,mysql,nodejs&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=prisma,git,github,mongo&perline=14"/>
   </kbd>
 </div>
 
