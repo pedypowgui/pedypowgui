@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    💼 Criando e desenvolvendo soluções Full-stack e mobile
+    🚀 Criando soluções Full-stack e mobile
   </p>
 
   <p>
@@ -36,17 +36,10 @@
 </p>
 
 <br>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">  
-  <h3>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-    <b>  Habilidades</b>    
-  </h3>
-</div>
-
-<p style="display: inline-block;" align="center">
+<p style="display: inline-block;" >
+   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="12%">
    <kbd>
     <kbd>Back-end</kbd>
     <br>
@@ -65,11 +58,10 @@
     <br>
     <img src="https://skillicons.dev/icons?i=prisma,git,mongo,aws&perline=14"/>
   </kbd>
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="12%">
 </div>
 
 <br>
 <br>
-
-## 📈 Minhas contribuições
  
  [![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=Pedypowgui&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
