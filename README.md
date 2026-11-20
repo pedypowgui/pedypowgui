@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    💼 Procurando Estágio em Desenvolvimento Full-stack e Engenharia de IA
+    💼 Criando e desenvolvendo soluções Full-stack e mobile
   </p>
 
   <p>
@@ -51,19 +51,19 @@
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=java,py,nodejs&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=java,py,nodejs,typescript,kotlin&perline=14"/>
   </kbd>
   <kbd>
     <kbd>FrameWorks</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=spring,bootstrap,react,express&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=spring,tailwind,react,express&perline=14"/>
   </kbd>
   <kbd>
     <kbd>Ferramentas</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=prisma,git,github,mongo&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=prisma,git,mongo,aws&perline=14"/>
   </kbd>
 </div>
 
