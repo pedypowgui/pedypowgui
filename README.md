@@ -40,8 +40,8 @@
 <br>
 <br>
 
-<p style="display: inline-block;" >
-   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="10%">
+<p style="display: inline-block;" align="center">
+   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="5%">
    <kbd>
     <kbd>Back-end</kbd>
     <br>
@@ -60,7 +60,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=prisma,git,mongo,aws&perline=14"/>
   </kbd>
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="10%">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="5%">
 </div>
 
 <br>
